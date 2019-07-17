@@ -1,0 +1,28 @@
+m.vk.com###StoriesFeedBlock
+m.vk.com##.BottomMenu__cell:nth-of-type(1)
+m.vk.com##.MainMenu__menuItem:nth-of-type(4)
+m.vk.com##.MainMenu__menuItem:nth-of-type(6)
+m.vk.com##.MainMenu__menuItem:nth-of-type(7)
+m.vk.com##.MainMenu__menuItem:nth-of-type(8)
+m.vk.com##.MainMenu__menuItem:nth-of-type(9)
+m.vk.com##.SettingsMenu__item:nth-of-type(2)
+m.vk.com##.mhb_logo
+m.vk.com##.mmi_feed
+m.vk.com##.mmi_recommended
+m.vk.com##.new_post_container
+m.vk.com##.post__adsFriendsInfo
+m.vk.com##.recommends_link
+m.vk.com##.show_more
+m.vk.com##.slim_header:has-text(may know)
+m.vk.com##.slim_header:has-text(may know) ~ *
+m.vk.com##.wall_item
+m.vk.com##.wi_body
+m.vk.com##.wi_cont
+m.vk.com##.wi_head
+vk.com###feed_filters
+vk.com###feed_rmenu
+vk.com###l_nwsf
+vk.com###main_feed
+vk.com###stories_feed_wrap
+vk.com##.top_home_link
+vk.com##.profile_friends_recomm
