@@ -21,8 +21,9 @@ m.vk.com##.wi_cont
 m.vk.com##.wi_head
 vk.com###feed_filters
 vk.com###feed_rmenu
+vk.com###friends_possible_block
 vk.com###l_nwsf
 vk.com###main_feed
 vk.com###stories_feed_wrap
-vk.com##.top_home_link
 vk.com##.profile_friends_recomm
+vk.com##.top_home_link
