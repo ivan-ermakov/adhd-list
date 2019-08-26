@@ -14,7 +14,7 @@ m.vk.com##.post__adsFriendsInfo
 m.vk.com##.recommends_link
 m.vk.com##.show_more
 m.vk.com##.slim_header:has-text(may know)
-m.vk.com##.slim_header:has-text(may know) ~ *
+m.vk.com##.slim_header:has-text(may know) + * + *
 m.vk.com##.wall_item
 m.vk.com##.wi_body
 m.vk.com##.wi_cont
