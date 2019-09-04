@@ -27,3 +27,6 @@ vk.com###main_feed
 vk.com###stories_feed_wrap
 vk.com##.profile_friends_recomm
 vk.com##.top_home_link
+www.gismeteo.ru##.media_feed
+www.gismeteo.ru##.navteaser_instagram
+www.gismeteo.ru##.readmore
