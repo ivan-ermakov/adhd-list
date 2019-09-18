@@ -19,6 +19,8 @@ m.vk.com##.wall_item
 m.vk.com##.wi_body
 m.vk.com##.wi_cont
 m.vk.com##.wi_head
+stackoverflow.com###hot-network-questions
+stackoverflow.com##.s-sidebarwidget__yellow
 vk.com###feed_filters
 vk.com###feed_rmenu
 vk.com###friends_possible_block
