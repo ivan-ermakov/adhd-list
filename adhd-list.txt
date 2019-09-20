@@ -32,3 +32,5 @@ vk.com##.top_home_link
 www.gismeteo.ru##.media_feed
 www.gismeteo.ru##.navteaser_instagram
 www.gismeteo.ru##.readmore
+www.youtube.com###related
+www.youtube.com##.ytd-comments
