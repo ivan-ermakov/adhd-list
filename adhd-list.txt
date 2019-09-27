@@ -34,3 +34,4 @@ www.gismeteo.ru##.navteaser_instagram
 www.gismeteo.ru##.readmore
 www.youtube.com###related
 www.youtube.com##.ytd-comments
+www.youtube.com##.ytd-live-chat-frame
